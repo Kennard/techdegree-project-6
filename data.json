@@ -1,0 +1,56 @@
+{
+    "data": {
+        "projects": [
+            {
+                "id": 1,
+                "project_name": "A Random Quote Generator",
+                "description": "The Random Quote Generator project uses an array of data and JavaScript to display data randomly based on user interaction via a click event. Each time a user clicks on the button a new quote is displayed and the color of the page is changed. Left alone the page also continues to display random qoutes after a set interval. Click on the Live Demo button to see it in action.",
+                "technologies": ["JavaScript", "HTML", "CSS"],
+                "live_link": "https://kennard.github.io/techdegree-project-1/",
+                "github_link": "https://github.com/Kennard/techdegree-project-1",
+                "image_urls" : ["randomq550x550.png","randomq1_1200x500.png","randomq2_1200x500.png",
+                    "randomq3_1200x500.png"]
+            },
+            {
+                "id": 2,
+                "project_name": "List Pagination and Filtering",
+                "description": "In this project I take a long list of users and truncate the list into smaller subsets on the page using JavaScript. By displaying smaller subsets of information we can provide a better user experience by allowing the user to take in a smaller set of data at a time. I wrote a few JavaScript function that filters the HTML list and then paginate the information with navigation links on the bottom of the page to cycle through to the next subset of data. Click on the Live Demo button to see it in action.",
+                "technologies": ["JavaScript", "HTML", "CSS"],
+                "live_link": "https://kennard.github.io/techdegree-project-2/",
+                "github_link": "https://github.com/Kennard/techdegree-project-2",
+                "image_urls" : ["listpag550x550.png","listpag1_1200x500.png","listpag2_1200x500.png",
+                    "listpag3_1200x500.png"]
+            },
+            {
+                "id": 3,
+                "project_name": "Interactive Form",
+                "description": "In this project we create an Interactive Form using the  JavaScript library jQuery. Using several jQuery function and methods this form provides hints for incomplete fields, an invalid email format, changes form appearance based on select options and provides hints for valid data in the credit card fields. Click on the Live Demo button to see it in action.",
+                "technologies": ["jQuery"],
+                "live_link": "https://kennard.github.io/techdegree-project-3/",
+                "github_link": "https://github.com/Kennard/techdegree-project-3",
+                "image_urls" : ["fullstackconf550x550.png","fullstackconf1_1200x550.png","fullstackconf2_1200x550.png",
+                    "fullstackconf3_1200x550.png"]
+            },
+            {
+                "id": 4,
+                "project_name": "OOP Game App",
+                "description": "This Game Show App was developed using OOP and JavaScript to create several object classes to control various functionality of the game. The app allows users to guess what the on screen phrase is by selecting a letter from the on screen keyboard. If the user can select a letter before the run out of lives they win! If the user runs out of lives they lose and they can restart the game again! Click on the Live Demo button to see it in action.",
+                "technologies": ["JavaScript", "OOP"],
+                "live_link": "https://kennard.github.io/techdegree-project-4/",
+                "github_link": "https://github.com/Kennard/techdegree-project-4",
+                "image_urls" : ["phasehunter550x550.png","phasehunter1200x500_mainpage.png",
+                     "phasehunter1200x500_startgame.png","phasehunter1200x500_gamewon.png"]
+            },
+            {
+                "id": 5,
+                "project_name": "Public API Requests",
+                "description": "The Pulic API Request project uses a third party public API to generate a set number of random ficticious users to mimic a company directory list. Using JavaScript to fetch the json formatted data the resulting data array is used to build out individual user cards on the screen. When a user card is click we deploy a modal window to highliht the employee in the screen. Click on the Live Demo button to see it in action.",
+                "technologies": ["JavaScript", "API"],
+                "live_link": "https://kennard.github.io/techdegree-project-5/",
+                "github_link": "https://github.com/Kennard/techdegree-project-5",
+                "image_urls" : ["publicapi550x550.png","publicapi1_1200x500.png","publicapi2_1200x500.png",
+                    "publicapi3_1200x500.png"]
+            }
+        ]
+    }
+}
