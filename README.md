@@ -5,3 +5,5 @@ This site is a small portfolio of projects put together using Node.js and Expres
 The app.js files has code comments to follow along where different express elements begin such as: pug view engine, routes, static files, middleware and error handling.  
 
 The style attributes are a little different in this version from the original mocks found in the mock up folder. I've added an additional CSS file 'extra.css' that adds a new layor of styling to a few elements. If you want the original style the extra.css style sheet can be removed.
+
+The ultimate goal here to demonstrate how to create a static server side site vs client side.
