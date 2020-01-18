@@ -1,0 +1,30 @@
+/** CSS STyle Changes and Updates **/
+
+.button{
+    background-color: #333;
+    border-radius: 5px; /* Added */
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.25);/* Added */
+  }
+  
+  .portfolio-me{
+    padding: 20px;
+    background: #D8D8D8; /*modified color #121213*/
+    color: #333; /* modified color #fff */
+    box-shadow: none !important;
+  }
+  
+    .portfolio-me p{
+      font-size: 14px;
+      color: #444; /* modified color #999 */
+      text-shadow: -1px 1px 0px #eee;
+    }
+  
+    .portfolio-index .thumbnail{
+      margin-bottom: 5px; 
+      -webkit-filter: grayscale(100%); 
+        filter: grayscale(100%);
+    }
+    .portfolio-index .thumbnail:hover{
+      -webkit-filter: grayscale(0%);
+      filter: grayscale(0%);
+    }
